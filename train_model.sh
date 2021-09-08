@@ -1,0 +1,1 @@
+python main.py 4 0.9 0.01 10
